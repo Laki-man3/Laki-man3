@@ -56,7 +56,7 @@
   <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="50" weight="50"/>
   <img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" alt="Figma" width="50" weight="50"/>
   <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="Javascript" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" weight="50"/>
 
 </p>
 
@@ -71,7 +71,7 @@
 - Понимание работы компьютерных сетей(модель ISO/OSI, стек протоколов TCP/IP), веб-приложений, серверов, протоколов прикладного уровня(HTTP, SMTP и др.).
 - Умение пользоваться инструментами разработки (DevTools, Jira, Figma).
 - Навыки чтения, анализа и написания кода на Python и C++ (STL, ООП, Windows API).
-- Знания HTML и CSS.
+- Знания HTML, CSS и JavaScript.
 - Знание теории тестирования, техник тест-дизайна, тестовых артефактов и их составление.
 - Опыт тестирования API в Postman, мобильных приложений в Charles proxy.
 ---
