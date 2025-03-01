@@ -53,15 +53,15 @@
   <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" alt="Charles proxy" width="50" weight="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="Wireshark" width="50" weight="50"/>
   <br>
-  <img src="https://logolook.net/wp-content/uploads/2023/04/Jira-Emblem-500x281.png" alt="Jira" width="50" weight="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" alt="Figma" width="50" weight="50"/>
+  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="50" weight="50"/>
+  <img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" alt="Figma" width="50" weight="50"/>
   <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
 </p>
 
 - **Тестирование**: Postman, Wireshark, Charles proxy.
 - **Языки программирования**: C, C++, python.
 - **Веб-разработка**: HTML, CSS, JavaScript.
-- **Разработка**:Jira, Figma, DevTools.
+- **Разработка**: Jira, Figma, DevTools.
 
 ---
 ## 🛠️ Навыки
