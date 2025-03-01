@@ -43,19 +43,19 @@
 ## ⚡️ Технологии и инструменты
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="C++" width="10" weight="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="C" width="10" weight="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="10" weight="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS" width="10" weight="10"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="C" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="50" weight="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS" width="50" weight="50"/>
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="10" weight="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" alt="Postman" width="10" weight="10"/>
-  <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" alt="Charles proxy" width="10" weight="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="Wireshark" width="10" weight="10"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" alt="Postman" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" alt="Charles proxy" width="50" weight="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="Wireshark" width="50" weight="50"/>
   <br>
-  <img src="https://icons8.ru/icon/HcniVsnSjr1w/jira-logo" alt="Jira" width="10" weight="10"/>
-  <img src="https://icons8.ru/icon/nMeAkcoE7aTF/figma" alt="Figma" width="10" weight="10"/>
-  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Figma" width="10" weight="10"/>
+  <img src="https://logolook.net/wp-content/uploads/2023/04/Jira-Emblem-500x281.png" alt="Jira" width="50" weight="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" alt="Figma" width="50" weight="50"/>
+  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
 </p>
 
 - **Тестирование**: Postman, Wireshark, Charles proxy.
@@ -81,7 +81,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&hide_border=true&title_color=FFAE00"
     alt="Top Langs"
   />
-
+</p>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="GitHub stats"
