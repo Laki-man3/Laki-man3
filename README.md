@@ -56,6 +56,8 @@
   <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="50" weight="50"/>
   <img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" alt="Figma" width="50" weight="50"/>
   <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="Javascript" width="50" weight="50"/>
+
 </p>
 
 - **Тестирование**: Postman, Wireshark, Charles proxy.
