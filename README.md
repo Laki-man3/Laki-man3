@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" alt="Playwright" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" weight="50"/>
-  <img src="<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 256 256"><path fill="#662D91" d="M.295 119.397c24.814 57.004 87.778 66.563 162.925 18.246c34.66 32.08 43.295 70.11 14.374 108.392C162.341 252.451 145.586 256 128 256C57.308 256 0 198.692 0 128c0-2.89.106-5.758.295-8.602m117.059-24.744c11.205-46.695 42.494-73.48 91.678-65.737C237.702 52.39 256 88.056 256 128c0 50.395-29.126 93.979-71.46 114.857c38.457-54.784 7.03-112.584-67.186-148.204M128 0c27.435 0 52.85 8.635 73.687 23.33c-69.951-8.132-102.984 50.175-98.37 130.694c-45.452 13.941-82.48 3.669-102.048-44.047C10.03 47.819 63.427 0 128 0"/></svg>" alt="Appium" width="50" weight="50"/>
+  <img src="https://play-lh.googleusercontent.com/s1a9XrFC_rkpkYlc44Huc2D5G38ZS3R9tho3367zL0CYl6ftZht8RNiihXyy1K3rzP4" alt="Appium" width="50" weight="50"/>
 </p>
 
 - **Тестирование**: Postman, Wireshark, Charles proxy, Apache JMeter, DevTools, OWASP ZAP API.
