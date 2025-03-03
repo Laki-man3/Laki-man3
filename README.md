@@ -71,7 +71,7 @@
 
 - **Тестирование**: Postman, Wireshark, Charles proxy, Apache JMeter, DevTools, OWASP ZAP API.
 - **Автоматизация**: Selenium, Cypress, Appium, Playwright.
-- **Языки программирования**: C, C++, Python.
+- **Языки**: C, C++, Python.
 - **Веб-разработка**: HTML, CSS, JavaScript.
 - **Средства для разработки**: Jira, Figma, Git, Linux.
 
