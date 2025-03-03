@@ -61,9 +61,8 @@
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" alt="Selenium" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devops-workflow/jenkins-icons/4e2e947d53f9a5dcd5a4792e238b639a2e829bf7/icons/_SVG_Sources/JMeter-logo.svg" alt="JMeter" width="50" weight="50"/>
+  <img src="https://vectorified.com/images/jmeter-icon-28.png" alt="JMeter" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="Git" width="50" weight="50"/>
-  
 </p>
 
 - **Тестирование**: Postman, Wireshark, Charles proxy, Apache JMeter.
