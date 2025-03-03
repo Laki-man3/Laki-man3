@@ -38,6 +38,7 @@
 ---
 - Меня зовут Семён, я студент 2 курса НГТУ "Информационные системы и технологии".
 - Увлекаюсь ручным тестирование: тестирую формы, web-приложения, мобильные приложения, rest api.
+- Активно развиваюсь в автоматизации.
 ---
 
 ## ⚡️ Технологии и инструменты
@@ -57,23 +58,32 @@
   <img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" alt="Figma" width="50" weight="50"/>
   <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" weight="50"/>
-
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" alt="Selenium" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devops-workflow/jenkins-icons/4e2e947d53f9a5dcd5a4792e238b639a2e829bf7/icons/_SVG_Sources/JMeter-logo.svg" alt="JMeter" width="50" weight="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="Git" width="50" weight="50"/>
+  
 </p>
 
-- **Тестирование**: Postman, Wireshark, Charles proxy.
-- **Языки программирования**: C, C++, python.
+- **Тестирование**: Postman, Wireshark, Charles proxy, Apache JMeter.
+- **Автоматизация**: Selenium, Cypress.
+- **Языки программирования**: C, C++, Python.
 - **Веб-разработка**: HTML, CSS, JavaScript.
-- **Средства для разработки**: Jira, Figma, DevTools.
+- **Средства для разработки**: Jira, Figma, DevTools, Git.
 
 ---
 ## 🛠️ Навыки
 - Знание моделей, методологий разработки ПО и тестирования.
 - Понимание работы компьютерных сетей(модель ISO/OSI, стек протоколов TCP/IP), веб-приложений, серверов, протоколов прикладного уровня(HTTP, SMTP и др.).
-- Умение пользоваться инструментами разработки (DevTools, Jira, Figma).
+- Умение пользоваться инструментами разработки (DevTools, Jira, Figma, Git).
 - Навыки чтения, анализа и написания кода на Python и C++ (STL, ООП, Windows API).
 - Знания HTML, CSS и JavaScript.
 - Знание теории тестирования, техник тест-дизайна, тестовых артефактов и их составление.
 - Опыт тестирования API в Postman, мобильных приложений в Charles proxy.
+- Опыт написания автотестов.
+- Опыт создания красивых(и не очень) сайтов.
+- Опыт разработки сложных программ для визуализации.
 ---
 
 ## 📊 GitHub статистика
