@@ -99,15 +99,6 @@
 
 ---
 
-## 🏆 Трофеи
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laki-man3&theme=dracula&column=4" alt="trophies" />
-</p>
-
----
-
----
-
 ## 📬 Связаться со мной
 
 - **Telegram**: [@PowerOfNsk](https://t.me/PowerOfNsk)
