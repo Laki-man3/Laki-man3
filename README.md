@@ -22,13 +22,6 @@
   <a href="https://github.com/Laki-man3" target="_blank">
     <img src="https://img.shields.io/github/followers/Laki-man3?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
   </a>
-
-  <!-- Бэйдж со счётчиком просмотров профиля -->
-  <img
-    src="https://komarev.com/ghpvc/?username=Laki-man3&color=blue"
-    alt="Profile views"
-    style="max-width:100%;"
-  />
 </p>
 
 
