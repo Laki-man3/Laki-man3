@@ -1,155 +1,216 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PIXEL ART HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD700&center=true&vCenter=true&width=650&height=60&lines=PLAYER+1+HAS+ENTERED...;LOADING+PROFILE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
+```
+██████╗ ██╗  ██╗   ██╗      ██████╗ ██╗████████╗
+██╔══██╗██║  ╚██╗ ██╔╝     ██╔══██╗██║╚══██╔══╝
+██████╔╝██║   ╚████╔╝      ██████╔╝██║   ██║   
+██╔═══╝ ██║    ╚██╔╝       ██╔══██╗██║   ██║   
+██║     ██║     ██║        ██████╔╝██║   ██║   
+╚═╝     ╚═╝     ╚═╝        ╚═════╝ ╚═╝   ╚═╝   
+```
+
+<!-- Animated typing effect via readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+LOADING+PLAYER_1...;%3E+SEMYON+%2F%2F+FULLSTACK+QA;%3E+SKILL+LEVEL%3A+OVER+9000;%3E+PRESS+START+TO+CONTINUE_)](https://git.io/typing-svg)
+
+---
+
+<!-- Health bar style badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Laki-man3&style=pixel&color=39ff14&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/Laki-man3?style=for-the-badge&logo=github&label=FOLLOWERS&color=ff6b35&labelColor=1a1a2e)](https://github.com/Laki-man3)
 
 </div>
 
-<div align="center">
-
-```
- ██████╗ ██╗  ██╗    ██████╗ ██╗████████╗
-██╔═══██╗██║  ██║    ██╔══██╗██║╚══██╔══╝
-██║   ██║███████║    ██████╔╝██║   ██║   
-██║▄▄ ██║██╔══██║    ██╔══██╗██║   ██║   
-╚██████╔╝██║  ██║    ██████╔╝██║   ██║   
- ╚══▀▀═╝ ╚═╝  ╚═╝    ╚═════╝ ╚═╝   ╚═╝  
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=FULLSTACK+QA+ENGINEER;BUG+HUNTER+%F0%9F%90%9B+LVL+99;TEST+AUTOMATION+MASTER+%E2%9A%A1;BREAKING+THINGS+PROFESSIONALLY+%F0%9F%92%A5)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🕹️ STAGE 1 — PLAYER INFO
-
-```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  NAME    :  Семён  ·  aka  Laki-man3             │
-│  CLASS   :  Fullstack QA Engineer                │
-│  GUILD   :  НГТУ — АВТ, 3 курс                 │
-│                                                  │
-│  LEVEL   :  ██████████░░░░░░░░  65 / 100         │
-│  EXP     :  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  Grinding...     │
-│  HP      :  ████████████████  MAX  ❤️            │
-│  MANA    :  ████████████░░░░  Coffee Low ☕       │
-│                                                  │
-│  MAIN QUEST : Become Senior QA Engineer 🎯        │
-│  SIDE QUEST : Find every bug in the world 🐛      │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
----
-
-## 🎮 STAGE 2 — SKILL TREE
-
-```
-╔═══════════════════════════════════════╗
-║         🔬  TESTING  TREE             ║
-╠═══════════════════════════════════════╣
-║  WEB Testing        ★★★★★ ░░░░░░     ║
-║  Mobile Testing     ★★★★☆ ░░░░░░     ║
-║  REST API           ★★★★★ ░░░░░░     ║
-║  Security (OWASP)   ★★★☆☆ ░░░░░░     ║
-║  Performance        ★★★★☆ ░░░░░░     ║
-╠═══════════════════════════════════════╣
-║        ⚡  AUTOMATION  TREE           ║
-╠═══════════════════════════════════════╣
-║  Selenium           ★★★★☆ ░░░░░░     ║
-║  Playwright         ★★★★☆ ░░░░░░     ║
-║  Cypress            ★★★☆☆ ░░░░░░     ║
-║  Appium             ★★★☆☆ ░░░░░░     ║
-╠═══════════════════════════════════════╣
-║        💻  LANGUAGE  TREE             ║
-╠═══════════════════════════════════════╣
-║  Python             ★★★★★ ░░░░░░     ║
-║  JavaScript         ★★★☆☆ ░░░░░░     ║
-║  C / C++            ★★★★☆ ░░░░░░     ║
-║  HTML / CSS         ★★★★☆ ░░░░░░     ║
-╚═══════════════════════════════════════╝
-```
-
-### ⚔️ EQUIPPED WEAPONS
-
-| SLOT | ITEM | TYPE |
-|:----:|------|------|
-| 🔴 | ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white) | API Sword |
-| 🟡 | ![JMeter](https://img.shields.io/badge/JMETER-D22128?style=flat-square&logo=apache&logoColor=white) | Load Hammer |
-| 🟢 | ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=selenium&logoColor=white) | Auto Bow |
-| 🔵 | ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-45ba4b?style=flat-square&logo=playwright&logoColor=white) | Magic Staff |
-| 🟣 | ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white) | Spy Glass |
-| ⚪ | ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white) | Time Machine |
-| 🟠 | ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black) | Terminal Blade |
-| 🔶 | ![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=flat-square&logo=cypress&logoColor=white) | Shadow Dagger |
-| 🔷 | ![Appium](https://img.shields.io/badge/APPIUM-662D91?style=flat-square&logo=appium&logoColor=white) | Mobile Gauntlet |
-| 🟤 | ![Charles](https://img.shields.io/badge/CHARLES_PROXY-F9CB34?style=flat-square&logoColor=black) | Interceptor |
-| ⬛ | ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) | Quest Log |
-| 🔑 | ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white) | Hacker's Key |
-
----
-
-## 📊 STAGE 3 — GAME STATS
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PLAYER CARD                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=00FF41&text_color=ffffff&border_radius=0" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Laki-man3&theme=dark&hide_border=true&background=0a0a0a&ring=FFD700&fire=FF4444&currStreakLabel=FFD700&border_radius=0&dates=00FF41" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=ffffff&border_radius=0" width="49%"/>
+```
+╔══════════════════════════════════════════╗
+║          ░░ PLAYER 1 — SEMYON ░░         ║
+╠══════════════════════════════════════════╣
+║  CLASS  │ FullStack QA Engineer          ║
+║  LEVEL  │ 3rd Year @ НГТУ               ║
+║  SPEC   │ Information Systems & Tech    ║
+║  MODE   │ Manual + Automation           ║
+╠══════════════════════════════════════════╣
+║  HP     │ ████████████████████  100%    ║
+║  XP     │ ████████████████░░░░   80%    ║
+║  MANA   │ █████████████░░░░░░░   65%    ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   SKILL TREE                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🕹️ `SKILL TREE`
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🥇  [UNLOCKED]  First Bug Found         —  Bug Slayer       ║
-║  🥇  [UNLOCKED]  100 API Tests Passed    —  API Wizard       ║
-║  🥇  [UNLOCKED]  Wrote First Autotest    —  Automator        ║
-║  🥈  [IN PROG.]  500 GitHub Commits      —  Code Grinder     ║
-║  🔒  [LOCKED  ]  CI/CD Pipeline Master   —  ???              ║
-║  🔒  [LOCKED  ]  Senior QA Engineer      —  ??? END GAME     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ ┌─────────────────────────────────────────────────────────┐
+ │                      ★ SKILLS ★                          │
+ ├─────────────────────────────────────────────────────────┤
+ │  🧪  MANUAL TESTING     [██████████] LVL MAX            │
+ │  🤖  AUTOMATION         [████████░░] LVL  8             │
+ │  🌐  WEB TESTING        [█████████░] LVL  9             │
+ │  📱  MOBILE TESTING     [████████░░] LVL  8             │
+ │  🔌  API TESTING        [█████████░] LVL  9             │
+ │  🐍  PYTHON             [████████░░] LVL  8             │
+ │  🌍  HTML/CSS/JS        [███████░░░] LVL  7             │
+ │  🔒  SECURITY (ZAP)     [██████░░░░] LVL  6             │
+ └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📡 STAGE 4 — CONTINUE?
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    INVENTORY                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎒 `INVENTORY — TECH STACK`
 
 <div align="center">
 
-```
-  ┌──────────────────────────────────────────┐
-  │                                          │
-  │   FOUND A BUG?  WANT TO CONNECT?         │
-  │                                          │
-  │        ►  PRESS [START]  ◄               │
-  │                                          │
-  └──────────────────────────────────────────┘
-```
+### ⚔️ WEAPONS (Testing Tools)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMETER-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Charles](https://img.shields.io/badge/CHARLES_PROXY-000000?style=for-the-badge&logo=charles&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-E44D26?style=for-the-badge&logo=owasp&logoColor=white)
+![DevTools](https://img.shields.io/badge/DEVTOOLS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-[![Telegram](https://img.shields.io/badge/%E2%96%BA_TELEGRAM-@PowerOfNsk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PowerOfNsk)
-[![GitHub](https://img.shields.io/github/followers/Laki-man3?style=for-the-badge&label=%E2%96%BA+FOLLOW+ME&logo=github&color=FFD700&logoColor=black)](https://github.com/Laki-man3)
+### 🤖 SPELLS (Automation)
+![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/APPIUM-662D91?style=for-the-badge&logo=appium&logoColor=white)
+
+### 📜 SCROLLS (Languages)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛡️ ARMOR (Tools & Platforms)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   QUEST LOG                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📋 `QUEST LOG`
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                    ACTIVE QUESTS                          ║
+╠═══════════════════════════════════════════════════════════╣
+║  [✅]  Master manual testing of forms & web apps          ║
+║  [✅]  Conquer REST API testing                           ║
+║  [✅]  Defeat mobile app bugs with Appium                 ║
+║  [🔄]  Level up automation skills daily                   ║
+║  [🔄]  Complete 3rd year @ НГТУ                          ║
+║  [🔲]  Build legendary automation framework               ║
+║  [🔲]  Achieve Senior QA rank                            ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 `BATTLE STATS`
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=600&color=FF4444&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+NO...+NEVER.;INSERT+COIN+TO+CONTINUE+%F0%9F%AA%99;LOADING+NEXT+LEVEL...)](https://git.io/typing-svg)
+<img src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=ff6b35&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&rank_icon=github&custom_title=⭐+GITHUB+STATS" width="49%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Laki-man3&color=FFD700&style=for-the-badge&label=VISITORS)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laki-man3&theme=dark&background=0d0d0d&border=39ff14&stroke=39ff14&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39ff14&sideLabels=39ff14&dates=888888" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=💻+TOP+LANGUAGES" width="49%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ACTIVITY GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🗺️ `WORLD MAP — ACTIVITY`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laki-man3&theme=matrix&bg_color=0d0d0d&color=39ff14&line=ff6b35&point=ffffff&area=true&hide_border=false&custom_title=COMMIT+HISTORY)](https://github.com/Laki-man3)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  KNOWLEDGE BASE                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧠 `KNOWLEDGE BASE`
 
 ```
-© 2025  LAKI-MAN3 STUDIOS  ·  ALL BUGS RESERVED  ·  8-BIT EDITION
+ NETWORKING     ▸  ISO/OSI Model · TCP/IP Stack · HTTP/FTP/POP3
+ ARCHITECTURES  ▸  REST · SOAP · GraphQL
+ TESTING        ▸  Test Design Techniques · Test Artifacts
+ METHODOLOGIES  ▸  Agile · Scrum · Waterfall
+ SECURITY       ▸  OWASP Top 10 · Penetration Testing Basics
 ```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTACT                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📡 `COMMUNICATION CHANNEL`
+
+<div align="center">
+
+```
+╔══════════════════════════════════╗
+║   INSERT COIN TO CONTACT ME 🪙   ║
+╠══════════════════════════════════╣
+║                                  ║
+║    ▶  Telegram: @PowerOfNsk      ║
+║                                  ║
+╚══════════════════════════════════╝
+```
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@PowerOfNsk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PowerOfNsk)
+
+---
+
+```
+> THANKS FOR VISITING, PLAYER 1
+> REMEMBER: BUGS ARE JUST UNDOCUMENTED FEATURES 🐛
+> [PRESS R TO RESTART]
+```
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
