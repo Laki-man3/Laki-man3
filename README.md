@@ -155,7 +155,7 @@
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Laki-man3&cc=0d0d0d&tc=39ff14&ic=ff6b35&bc=39ff14)](https://github.com/Laki-man3)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&langs_count=6&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=TOP+LANGUAGES&cache_seconds=1800)](https://github.com/Laki-man3)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laki-man3&theme=github_dark)](https://github.com/Laki-man3)
 
 </div>
 
