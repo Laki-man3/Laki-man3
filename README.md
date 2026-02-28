@@ -151,10 +151,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=ff6b35&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&rank_icon=github&custom_title=⭐+GITHUB+STATS&hide_border=false)](https://github.com/Laki-man3)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Laki-man3&theme=dark&background=0d0d0d&border=39ff14&stroke=39ff14&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39ff14&sideLabels=39ff14&dates=888888)](https://github.com/Laki-man3)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=💻+TOP+LANGUAGES)](https://github.com/Laki-man3)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Laki-man3&cc=0d0d0d&tc=39ff14&ic=ff6b35&bc=39ff14)](https://github.com/Laki-man3)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&langs_count=6&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=TOP+LANGUAGES&cache_seconds=1800)](https://github.com/Laki-man3)
 
 </div>
 
