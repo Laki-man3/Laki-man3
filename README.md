@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="C" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="50" weight="50"/>
-  <img src="https://avatars.mds.yandex.net/i?id=6c369d982eb48593971642915f80a21da6f9222b-17043132-images-thumbs&n=13" alt="CSS" width="50" weight="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-1024.png" alt="CSS" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="50" weight="50"/>
   <br>
   <img src="https://ih1.redbubble.net/image.1191456572.9129/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="OWASP ZAP API" width="50" weight="50"/>
