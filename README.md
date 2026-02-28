@@ -28,7 +28,7 @@
 │                                                  │
 │  NAME    :  Семён  ·  aka  Laki-man3             │
 │  CLASS   :  Fullstack QA Engineer                │
-│  GUILD   :  НГТУ — ИСиТ, 3 курс                 │
+│  GUILD   :  НГТУ — АВТ, 3 курс                 │
 │                                                  │
 │  LEVEL   :  ██████████░░░░░░░░  65 / 100         │
 │  EXP     :  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  Grinding...     │
