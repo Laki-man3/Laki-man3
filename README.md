@@ -55,6 +55,8 @@
 
 ## 🕹️ `SKILL TREE`
 
+<div align="center">
+
 ```
  ┌─────────────────────────────────────────────────────────┐
  │                      ★ SKILLS ★                          │
@@ -69,6 +71,8 @@
  │  🔒  SECURITY (ZAP)     [██████░░░░] LVL  6             │
  └─────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -119,6 +123,8 @@
 
 ## 📋 `QUEST LOG`
 
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                    ACTIVE QUESTS                          ║
@@ -133,6 +139,8 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -143,11 +151,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=ff6b35&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&rank_icon=github&custom_title=⭐+GITHUB+STATS" width="49%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=ff6b35&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&rank_icon=github&custom_title=⭐+GITHUB+STATS&hide_border=false)](https://github.com/Laki-man3)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Laki-man3&theme=dark&background=0d0d0d&border=39ff14&stroke=39ff14&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39ff14&sideLabels=39ff14&dates=888888)](https://github.com/Laki-man3)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laki-man3&theme=dark&background=0d0d0d&border=39ff14&stroke=39ff14&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39ff14&sideLabels=39ff14&dates=888888" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=💻+TOP+LANGUAGES" width="49%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0d0d&border_color=39ff14&custom_title=💻+TOP+LANGUAGES)](https://github.com/Laki-man3)
 
 </div>
 
