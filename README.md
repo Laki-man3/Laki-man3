@@ -1,88 +1,155 @@
-<p align="center">
-  <img
-    src="https://github.com/Laki-man3/Laki-man3/blob/main/images/banner.gif"
-    alt="banner"
-    width="600"
-    height="350"
-  />
-</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD700&center=true&vCenter=true&width=650&height=60&lines=PLAYER+1+HAS+ENTERED...;LOADING+PROFILE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
+</div>
 
-<h1 align="center">
-  Привет, я Laki-man3<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>fullstack QA</b>
-</p>
+```
+ ██████╗ ██╗  ██╗    ██████╗ ██╗████████╗
+██╔═══██╗██║  ██║    ██╔══██╗██║╚══██╔══╝
+██║   ██║███████║    ██████╔╝██║   ██║   
+██║▄▄ ██║██╔══██║    ██╔══██╗██║   ██║   
+╚██████╔╝██║  ██║    ██████╔╝██║   ██║   
+ ╚══▀▀═╝ ╚═╝  ╚═╝    ╚═════╝ ╚═╝   ╚═╝  
+```
 
-<p align="center">
-  <!-- Бэйдж на ваши подписчики на GitHub -->
-  <a href="https://github.com/Laki-man3" target="_blank">
-    <img src="https://img.shields.io/github/followers/Laki-man3?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=FULLSTACK+QA+ENGINEER;BUG+HUNTER+%F0%9F%90%9B+LVL+99;TEST+AUTOMATION+MASTER+%E2%9A%A1;BREAKING+THINGS+PROFESSIONALLY+%F0%9F%92%A5)](https://git.io/typing-svg)
 
+</div>
 
 ---
 
-## 📝 Обо мне
----
-- Меня зовут Семён, я студент 3 курса НГТУ "Информационные системы и технологии".
-- Увлекаюсь ручным тестирование: тестирую формы, web-приложения, мобильные приложения, rest api.
-- Активно развиваюсь в автоматизации.
----
+## 🕹️ STAGE 1 — PLAYER INFO
 
-## ⚡️ Технологии и инструменты
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="C" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="50" weight="50"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-1024.png" alt="CSS" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="50" weight="50"/>
-  <br>
-  <img src="https://ih1.redbubble.net/image.1191456572.9129/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="OWASP ZAP API" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" alt="Postman" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" alt="Charles proxy" width="50" weight="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" width="50" weight="50"/>
-  <img src="https://vectorified.com/images/jmeter-icon-28.png" alt="JMeter" width="50" weight="50"/>
-  <br>
-  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="50" weight="50"/>
-  <img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" alt="Figma" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="Git" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="Linux" width="50" weight="50"/>
-  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" alt="Devtools" width="50" weight="50"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" alt="Selenium" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" alt="Playwright" width="50" weight="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" weight="50"/>
-  <img src="https://play-lh.googleusercontent.com/s1a9XrFC_rkpkYlc44Huc2D5G38ZS3R9tho3367zL0CYl6ftZht8RNiihXyy1K3rzP4" alt="Appium" width="50" weight="50"/>
-</p>
-
-- **Тестирование**: Postman, Wireshark, Charles proxy, Apache JMeter, DevTools, OWASP ZAP API.
-- **Автоматизация**: Selenium, Cypress, Appium, Playwright.
-- **Языки**: C, C++, Python.
-- **Веб-разработка**: HTML, CSS, JavaScript.
-- **Средства для разработки**: Jira, Figma, Git, Kubernetes, Kafka, Windows, Linux, WSL и др.
-
----
-## 🛠️ Навыки
-- Знание моделей, методологий разработки ПО и тестирования, REST, SOAP, GraphQL и других архитектурных решений.
-- Понимание работы компьютерных сетей(модель ISO/OSI, стек протоколов TCP/IP), веб-приложений, серверов, протоколов прикладного уровня(HTTP, FTP, POP3 и др.).
-- Умение пользоваться инструментами разработки (DevTools, Jira, Figma, Git, Linux).
-- Навыки чтения, анализа и написания кода на Python, Java.
-- Знания HTML, CSS и JavaScript.
-- Знание теории тестирования, техник тест-дизайна, тестовых артефактов и их проектирование.
-- Опыт тестирования REST API.
-- Опыт написания автотестов.
+```
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  NAME    :  Семён  ·  aka  Laki-man3             │
+│  CLASS   :  Fullstack QA Engineer                │
+│  GUILD   :  НГТУ — ИСиТ, 3 курс                 │
+│                                                  │
+│  LEVEL   :  ██████████░░░░░░░░  65 / 100         │
+│  EXP     :  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  Grinding...     │
+│  HP      :  ████████████████  MAX  ❤️            │
+│  MANA    :  ████████████░░░░  Coffee Low ☕       │
+│                                                  │
+│  MAIN QUEST : Become Senior QA Engineer 🎯        │
+│  SIDE QUEST : Find every bug in the world 🐛      │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📬 Связаться со мной
+## 🎮 STAGE 2 — SKILL TREE
 
-- **Telegram**: [@PowerOfNsk](https://t.me/PowerOfNsk)
+```
+╔═══════════════════════════════════════╗
+║         🔬  TESTING  TREE             ║
+╠═══════════════════════════════════════╣
+║  WEB Testing        ★★★★★ ░░░░░░     ║
+║  Mobile Testing     ★★★★☆ ░░░░░░     ║
+║  REST API           ★★★★★ ░░░░░░     ║
+║  Security (OWASP)   ★★★☆☆ ░░░░░░     ║
+║  Performance        ★★★★☆ ░░░░░░     ║
+╠═══════════════════════════════════════╣
+║        ⚡  AUTOMATION  TREE           ║
+╠═══════════════════════════════════════╣
+║  Selenium           ★★★★☆ ░░░░░░     ║
+║  Playwright         ★★★★☆ ░░░░░░     ║
+║  Cypress            ★★★☆☆ ░░░░░░     ║
+║  Appium             ★★★☆☆ ░░░░░░     ║
+╠═══════════════════════════════════════╣
+║        💻  LANGUAGE  TREE             ║
+╠═══════════════════════════════════════╣
+║  Python             ★★★★★ ░░░░░░     ║
+║  JavaScript         ★★★☆☆ ░░░░░░     ║
+║  C / C++            ★★★★☆ ░░░░░░     ║
+║  HTML / CSS         ★★★★☆ ░░░░░░     ║
+╚═══════════════════════════════════════╝
+```
 
-<p align="center">
+### ⚔️ EQUIPPED WEAPONS
+
+| SLOT | ITEM | TYPE |
+|:----:|------|------|
+| 🔴 | ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white) | API Sword |
+| 🟡 | ![JMeter](https://img.shields.io/badge/JMETER-D22128?style=flat-square&logo=apache&logoColor=white) | Load Hammer |
+| 🟢 | ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=selenium&logoColor=white) | Auto Bow |
+| 🔵 | ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-45ba4b?style=flat-square&logo=playwright&logoColor=white) | Magic Staff |
+| 🟣 | ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white) | Spy Glass |
+| ⚪ | ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white) | Time Machine |
+| 🟠 | ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black) | Terminal Blade |
+| 🔶 | ![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=flat-square&logo=cypress&logoColor=white) | Shadow Dagger |
+| 🔷 | ![Appium](https://img.shields.io/badge/APPIUM-662D91?style=flat-square&logo=appium&logoColor=white) | Mobile Gauntlet |
+| 🟤 | ![Charles](https://img.shields.io/badge/CHARLES_PROXY-F9CB34?style=flat-square&logoColor=black) | Interceptor |
+| ⬛ | ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) | Quest Log |
+| 🔑 | ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white) | Hacker's Key |
+
+---
+
+## 📊 STAGE 3 — GAME STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=00FF41&text_color=ffffff&border_radius=0" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Laki-man3&theme=dark&hide_border=true&background=0a0a0a&ring=FFD700&fire=FF4444&currStreakLabel=FFD700&border_radius=0&dates=00FF41" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=ffffff&border_radius=0" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🥇  [UNLOCKED]  First Bug Found         —  Bug Slayer       ║
+║  🥇  [UNLOCKED]  100 API Tests Passed    —  API Wizard       ║
+║  🥇  [UNLOCKED]  Wrote First Autotest    —  Automator        ║
+║  🥈  [IN PROG.]  500 GitHub Commits      —  Code Grinder     ║
+║  🔒  [LOCKED  ]  CI/CD Pipeline Master   —  ???              ║
+║  🔒  [LOCKED  ]  Senior QA Engineer      —  ??? END GAME     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📡 STAGE 4 — CONTINUE?
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────┐
+  │                                          │
+  │   FOUND A BUG?  WANT TO CONNECT?         │
+  │                                          │
+  │        ►  PRESS [START]  ◄               │
+  │                                          │
+  └──────────────────────────────────────────┘
+```
+
+[![Telegram](https://img.shields.io/badge/%E2%96%BA_TELEGRAM-@PowerOfNsk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PowerOfNsk)
+[![GitHub](https://img.shields.io/github/followers/Laki-man3?style=for-the-badge&label=%E2%96%BA+FOLLOW+ME&logo=github&color=FFD700&logoColor=black)](https://github.com/Laki-man3)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=600&color=FF4444&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+NO...+NEVER.;INSERT+COIN+TO+CONTINUE+%F0%9F%AA%99;LOADING+NEXT+LEVEL...)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Laki-man3&color=FFD700&style=for-the-badge&label=VISITORS)
+
+```
+© 2025  LAKI-MAN3 STUDIOS  ·  ALL BUGS RESERVED  ·  8-BIT EDITION
+```
+
+</div>
