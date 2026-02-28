@@ -40,13 +40,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="C" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="50" weight="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS" width="50" weight="50"/>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" alt="CSS" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="50" weight="50"/>
   <br>
   <img src="https://ih1.redbubble.net/image.1191456572.9129/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="OWASP ZAP API" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" alt="Postman" width="50" weight="50"/>
   <img src="https://raw.githubusercontent.com/sevenler/software/96c3079f551536d72bacb190a86b28f6f5e0c47e/charles/icon/charles_icon.svg" alt="Charles proxy" width="50" weight="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="Wireshark" width="50" weight="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" width="50" weight="50"/>
   <img src="https://vectorified.com/images/jmeter-icon-28.png" alt="JMeter" width="50" weight="50"/>
   <br>
   <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="50" weight="50"/>
@@ -66,42 +66,23 @@
 - **Автоматизация**: Selenium, Cypress, Appium, Playwright.
 - **Языки**: C, C++, Python.
 - **Веб-разработка**: HTML, CSS, JavaScript.
-- **Средства для разработки**: Jira, Figma, Git, Linux.
+- **Средства для разработки**: Jira, Figma, Git, Kubernetes, Kafka, Windows, Linux, WSL и др.
 
 ---
 ## 🛠️ Навыки
-- Знание моделей, методологий разработки ПО и тестирования.
+- Знание моделей, методологий разработки ПО и тестирования, REST, SOAP, GraphQL и других архитектурных решений.
 - Понимание работы компьютерных сетей(модель ISO/OSI, стек протоколов TCP/IP), веб-приложений, серверов, протоколов прикладного уровня(HTTP, FTP, POP3 и др.).
 - Умение пользоваться инструментами разработки (DevTools, Jira, Figma, Git, Linux).
-- Навыки чтения, анализа и написания кода на Python и C++ (STL, ООП, Windows API).
+- Навыки чтения, анализа и написания кода на Python, Java.
 - Знания HTML, CSS и JavaScript.
-- Знание теории тестирования, техник тест-дизайна, тестовых артефактов и их составление.
-- Опыт тестирования API в Postman, мобильных приложений в Charles proxy.
+- Знание теории тестирования, техник тест-дизайна, тестовых артефактов и их проектирование.
+- Опыт тестирования REST API.
 - Опыт написания автотестов.
-- Опыт создания красивых(и не очень) сайтов.
-- Опыт разработки сложных программ для визуализации.
----
-
-## 📊 GitHub статистика
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laki-man3&layout=compact&hide_border=true&title_color=FFAE00"
-    alt="Top Langs"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Laki-man3&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    alt="GitHub stats"
-  />
-</p>
 
 ---
 
 ## 📬 Связаться со мной
 
 - **Telegram**: [@PowerOfNsk](https://t.me/PowerOfNsk)
-- **GitHub**: [Laki-man3](https://github.com/Laki-man3)
 
 <p align="center">
