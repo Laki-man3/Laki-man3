@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<base href="../">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile preview</title>
+<style>
+  :root { --bg: #0d1117; --box: #0d1117; --border: #30363d; }
+  body.light { --bg: #ffffff; --box: #ffffff; --border: #d0d7de; }
+  body { margin: 0; background: var(--bg); font: 14px -apple-system, Segoe UI, sans-serif; }
+  .bar { padding: 8px 16px; }
+  .bar button { font: inherit; }
+  .box { max-width: 830px; margin: 8px auto 40px; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--box); padding: 24px; box-sizing: border-box; }
+  .box p { margin: 0 0 16px; text-align: center; }
+  .box img { max-width: 100%; vertical-align: middle; }
+</style>
+</head>
+<body>
+<div class="bar"><button onclick="document.body.classList.toggle('light')">dark / light</button></div>
+<div class="box" id="readme"></div>
+<script>
+  fetch('README.md').then(r => r.text()).then(md => {
+    document.getElementById('readme').innerHTML = md;
+  });
+</script>
+</body>
+</html>
