@@ -43,61 +43,63 @@ RAY = '#afc3bb'
 
 # ───────────────────────────── CONTENT ──────────────────────────────
 
-NAME = 'Семён Дашкин'
-TAGLINE = 'QA Engineer · Новосибирск'
+NAME = 'Semyon Dashkin'
+NAME_TAG = 'Semyon'
+TAGLINE = 'QA Engineer · Backend & APIs'
 
-ABOUT = ('Привет, я Семён, QA-инженер. '
-         'Три года тестировал бэкенд банковских систем: микросервисы '
-         'на REST и Kafka, данные в PostgreSQL и Redis, логи в Kibana. '
-         'Заканчиваю НГТУ и ищу новую команду.')
+ABOUT = ("Hi, I'm Semyon, a QA engineer. I spent three years testing "
+         'banking backends: microservices talking over REST and Kafka, '
+         'data in PostgreSQL and Redis, logs in Kibana. '
+         'Currently looking for a new team.')
+
+TITLES = dict(experience='EXPERIENCE', results='HIGHLIGHTS',
+              stack='STACK', contacts='CONTACT')
 
 EXPERIENCE = [
-    dict(org='ГК «Иннотех»', dates='07.2023 — 08.2026',
-         role='QA Engineer · удалённо',
-         text=['Три параллельных проекта для ВТБ: оркестратор продуктовых '
-               'операций центральной депозитарной системы, процессор '
-               'расчётных операций депозитария и реестр платёжных документов.',
-               'Планировал и проводил функциональное, регрессионное и smoke-'
-               'тестирование, готовил тестовые данные и стенды, вёл дефекты '
-               'и документацию, показывал функционал заказчику.']),
-    dict(org='Элтекс', dates='03.2023 — 06.2023',
-         role='QA Engineer, стажёр',
-         text=['Ручное тестирование коммутаторов MES: разбор документации, '
-               'тест-кейсы, дефекты в Jira.']),
-    dict(org='НГТУ', dates='2023 — 2027',
-         role='Бакалавриат · 09.03.02',
-         text=['Информационные системы и технологии.']),
+    dict(org='Innotech Group', dates='Jul 2023 — Aug 2026',
+         role='QA Engineer · remote',
+         text=['Three parallel projects for VTB Bank: a product operations '
+               'orchestrator for the central depository system, a settlement '
+               'processor for the depository and a payment documents registry.',
+               'Planned and ran functional, regression and smoke testing, '
+               'prepared test data and environments, handled defects and docs, '
+               'demoed new features to the client.']),
+    dict(org='Eltex', dates='Mar 2023 — Jun 2023',
+         role='QA Engineer, intern',
+         text=['Manual testing of MES network switches: reading specs, '
+               'writing test cases, filing defects in Jira.']),
 ]
 
 RESULTS = [
-    ('tms', 'TMS в процессе тестирования',
-     'Подключил «Сфера.Функциональное тестирование» — тест-кейсы и '
-     'другие артефакты стали готовиться быстрее.'),
-    ('redis', 'Redis как инструмент QA',
-     'Подменяя значения в кеше, который сервис читает первым, '
-     'воспроизводили редкие ошибки и проталкивали невалидные запросы.'),
-    ('folder', 'Общие тестовые данные',
-     'Единое пространство с тестовыми данными, доступное любому '
-     'в команде.'),
-    ('switch', 'Трафик на Python + scapy',
-     'В Элтексе первым начал генерировать сетевой трафик скриптами '
-     'на scapy.'),
+    ('tms', 'TMS in the testing workflow',
+     'Brought the Sfera TMS into the process, so test cases and other '
+     'test artifacts take less time to write.'),
+    ('redis', 'Redis as a testing tool',
+     'By changing values in the cache the service reads first, we could '
+     'reproduce rare errors and push through requests the system would '
+     'normally reject.'),
+    ('folder', 'Shared test data',
+     'One common place and format for test data that anyone on the team '
+     'can use.'),
+    ('switch', 'Traffic generation with scapy',
+     'First at Eltex to generate network traffic with Python and scapy '
+     'scripts.'),
 ]
 
 STACK = [
     ('API', ['REST', 'SOAP', 'GraphQL', 'RPC', 'Webhooks']),
-    ('ОТЛАДКА', ['Postman', 'cURL', 'WireMock', 'DevTools']),
-    ('ДАННЫЕ', ['PostgreSQL', 'MySQL', 'Redis', 'Kafka', 'DBeaver']),
-    ('ИНФРА', ['Docker', 'Kubernetes', 'CI/CD', 'Git', 'Linux']),
-    ('ЛОГИ', ['Kibana', 'ELK', 'логи k8s']),
-    ('ПРОЦЕСС', ['Jira', 'Confluence', 'Kaiten', 'TestIT', 'Сфера']),
-    ('МЕТОДЫ', ['тест-дизайн', 'Scrum', 'BDD', 'TDD', 'SDLC']),
-    ('КОД', ['Python', 'Java', 'C#', 'C/C++', 'JS']),
-    ('СЕТИ', ['TCP/IP', 'OSI', 'HTTP', 'FTP', 'Wireshark', 'scapy']),
+    ('DEBUG', ['Postman', 'cURL', 'WireMock', 'DevTools']),
+    ('DATA', ['PostgreSQL', 'MySQL', 'Redis', 'Kafka', 'DBeaver']),
+    ('INFRA', ['Docker', 'Kubernetes', 'CI/CD', 'Git', 'Linux']),
+    ('LOGS', ['Kibana', 'ELK', 'k8s logs']),
+    ('PROCESS', ['Jira', 'Confluence', 'Kaiten', 'TestIT', 'Sfera']),
+    ('METHODS', ['test design', 'Scrum', 'BDD', 'TDD', 'SDLC']),
+    ('CODE', ['Python', 'Java', 'C#', 'C/C++', 'JS']),
+    ('NETWORK', ['TCP/IP', 'OSI', 'HTTP', 'FTP', 'Wireshark', 'scapy']),
 ]
 STACK_FOCUS = ['Postman', 'Kafka', 'Redis', 'PostgreSQL', 'Kibana']
 
-CONTACT_TEXT = ['Открыт к предложениям.', 'Пишите в Telegram или на почту ↓']
+CONTACT_TEXT = ['Open to new opportunities.', 'Reach me on Telegram or by email ↓']
 TELEGRAM = '@PowerOfNsk'
 EMAIL = 'semend2005@mail.ru'
 
@@ -478,7 +480,7 @@ def about():
     s.rect(pxl, py, 80, 1, PAPER, ' opacity=".35"')
 
     # табличка с именем поверх рамки
-    tag = 'Семён'
+    tag = NAME_TAG
     tgw = tw(tag) + 14
     rrect(s, 16, 0, tgw, 15, INK, 1)
     s.rect(17, 1, tgw - 2, 13, BRICK)
@@ -518,8 +520,8 @@ def experience():
         blocks.append((y, e, lines))
         y = yy - 6 + 12
     H = y + 2
-    s = Svg(WU, H, 'Опыт: ' + '; '.join(f"{e['org']}, {e['role']}, {e['dates']}" for e in EXPERIENCE))
-    window(s, 0, 0, WU - 2, H - 2, 'ОПЫТ')
+    s = Svg(WU, H, 'Experience: ' + '; '.join(f"{e['org']}, {e['role']}, {e['dates']}" for e in EXPERIENCE))
+    window(s, 0, 0, WU - 2, H - 2, TITLES['experience'])
     nodes = []
     for y, e, lines in blocks:
         nodes.append(y)
@@ -614,8 +616,8 @@ ICONS = {
 def results():
     rows = [(k, t, wrap(b, 44)) for k, t, b in RESULTS]
     H = 18 + 10 + sum(max(13 + 12 * len(b), 30) + 10 for _, _, b in rows) + 4
-    s = Svg(WU, H, 'Результаты: ' + '; '.join(f'{t} — {b}' for _, t, b in RESULTS))
-    y = window(s, 0, 0, WU - 2, H - 2, 'РЕЗУЛЬТАТЫ') + 10
+    s = Svg(WU, H, 'Highlights: ' + '; '.join(f'{t} — {b}' for _, t, b in RESULTS))
+    y = window(s, 0, 0, WU - 2, H - 2, TITLES['results']) + 10
     for i, (key, title, body) in enumerate(rows):
         rh = max(13 + 12 * len(body), 30)
         # ячейка с иконкой
@@ -656,8 +658,8 @@ def stack():
         layout.append((label, y, slots))
         y = row_y + 17 + 3
     H = 18 + 10 + y + 6
-    s = Svg(WU, H, 'Стек: ' + '; '.join(f'{l}: {", ".join(i)}' for l, i in STACK))
-    top = window(s, 0, 0, WU - 2, H - 2, 'СТЕК') + 10
+    s = Svg(WU, H, 'Stack: ' + '; '.join(f'{l}: {", ".join(i)}' for l, i in STACK))
+    top = window(s, 0, 0, WU - 2, H - 2, TITLES['stack']) + 10
     colors = [TEAL_DKK, BRICK, MAUVE, TAUPE, SALMON, TEAL_DK, BROWN, MAUVE]
     focus = []
     for i, (label, ly, slots) in enumerate(layout):
@@ -690,8 +692,8 @@ def stack():
 
 def contacts():
     H = 18 + 10 + 13 * len(CONTACT_TEXT) + 8
-    s = Svg(WU, H, 'Контакты. ' + ' '.join(CONTACT_TEXT))
-    y = window(s, 0, 0, WU - 2, H - 2, 'КОНТАКТЫ') + 10
+    s = Svg(WU, H, 'Contact. ' + ' '.join(CONTACT_TEXT))
+    y = window(s, 0, 0, WU - 2, H - 2, TITLES['contacts']) + 10
     for i, line in enumerate(CONTACT_TEXT):
         s.text(14, y + i * 13, line, INK2)
     s.save('contacts.svg')
@@ -763,5 +765,5 @@ if __name__ == '__main__':
     stack()
     contacts()
     button('btn-telegram.svg', PLANE, TELEGRAM, f'Telegram {TELEGRAM}')
-    button('btn-mail.svg', ENVELOPE, EMAIL, f'Почта {EMAIL}')
+    button('btn-mail.svg', ENVELOPE, EMAIL, f'Email {EMAIL}')
     footer()
