@@ -45,9 +45,9 @@ RAY = '#afc3bb'
 
 NAME = 'Semyon Maksimovich'
 NAME_TAG = 'Semyon'
-TAGLINE = 'SDET · Backend & APIs'
+TAGLINE = 'QA Engineer · Backend & APIs'
 
-ABOUT = ("Hi, I'm Semyon, a QA engineer. I spent three years testing "
+ABOUT = ("Hi, I'm Semyon, a QA engineer. For the past three years I've been testing "
          'banking backends: microservices talking over REST and Kafka, '
          'data in PostgreSQL and Redis, logs in Kibana.')
 
@@ -55,7 +55,7 @@ TITLES = dict(experience='EXPERIENCE', results='HIGHLIGHTS',
               stack='STACK', contacts='CONTACT')
 
 EXPERIENCE = [
-    dict(org='Innotech Group', dates='Jul 2023 — Aug 2026',
+    dict(org='Innotech Group', dates='Jul 2023 — Present',
          role='QA Engineer · remote',
          text=['Three parallel projects for VTB Bank: a product operations '
                'orchestrator for the central depository system, a settlement '

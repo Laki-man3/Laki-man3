@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Semyon Maksimovich — SDET, Backend & APIs">
+  <img src="assets/hero.svg" width="100%" alt="Semyon Maksimovich — QA Engineer, Backend & APIs">
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="Hi, I'm Semyon, a QA engineer. I spent three years testing banking backends: microservices talking over REST and Kafka, data in PostgreSQL and Redis, logs in Kibana.">
+  <img src="assets/about.svg" width="100%" alt="Hi, I'm Semyon, a QA engineer. For the past three years I've been testing banking backends: microservices talking over REST and Kafka, data in PostgreSQL and Redis, logs in Kibana.">
 </p>
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience. Innotech Group, QA Engineer, Jul 2023 — Aug 2026: three projects for VTB Bank — a product operations orchestrator for the central depository system, a settlement processor for the depository and a payment documents registry. Eltex, QA Engineer (intern), Mar 2023 — Jun 2023: manual testing of MES network switches.">
+  <img src="assets/experience.svg" width="100%" alt="Experience. Innotech Group, QA Engineer, Jul 2023 — Present: three projects for VTB Bank — a product operations orchestrator for the central depository system, a settlement processor for the depository and a payment documents registry. Eltex, QA Engineer (intern), Mar 2023 — Jun 2023: manual testing of MES network switches.">
 </p>
 
 <p align="center">
