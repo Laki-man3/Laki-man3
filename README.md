@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Semyon Dashkin — QA Engineer, Backend & APIs">
+  <img src="assets/hero.svg" width="100%" alt="Semyon Maksimovich — SDET, Backend & APIs">
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="Hi, I'm Semyon, a QA engineer. I spent three years testing banking backends: microservices talking over REST and Kafka, data in PostgreSQL and Redis, logs in Kibana. Currently looking for a new team.">
+  <img src="assets/about.svg" width="100%" alt="Hi, I'm Semyon, a QA engineer. I spent three years testing banking backends: microservices talking over REST and Kafka, data in PostgreSQL and Redis, logs in Kibana.">
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/results.svg" width="100%" alt="Highlights: brought the Sfera TMS into the testing workflow; used Redis as a testing tool to reproduce rare errors by changing cached values; set up a shared test data space for the team; first at Eltex to generate network traffic with Python and scapy.">
+  <img src="assets/results.svg" width="100%" alt="Highlights: built Relay, a desktop app for API testing inside an isolated network segment; brought the Sfera TMS into the testing workflow; used Redis as a testing tool to reproduce rare errors by changing cached values; set up a shared test data space for the team; first at Eltex to generate network traffic with Python and scapy.">
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack: REST, SOAP, GraphQL, RPC, Webhooks; Postman, cURL, WireMock, DevTools; PostgreSQL, MySQL, Redis, Kafka, DBeaver; Docker, Kubernetes, CI/CD, Git, Linux; Kibana, ELK, k8s logs; Jira, Confluence, Kaiten, TestIT, Sfera; test design, Scrum, BDD, TDD, SDLC; Python, Java, C#, C/C++, JS; TCP/IP, OSI, HTTP, FTP, Wireshark, scapy.">
+  <img src="assets/stack.svg" width="100%" alt="Stack: REST, SOAP, GraphQL, RPC, Webhooks; pytest, JUnit, TestNG, REST Assured, Cucumber, Allure; Postman, cURL, WireMock, DevTools; PostgreSQL, MySQL, Redis, Kafka, DBeaver; Docker, Kubernetes, CI/CD, Git, Linux; Kibana, ELK, k8s logs; Jira, Confluence, Kaiten, TestIT, Sfera; test design, Scrum, BDD, TDD, SDLC; Python, Java, C#, C/C++, JS; TCP/IP, OSI, HTTP, FTP, Wireshark, scapy.">
 </p>
 
 <p align="center">

@@ -43,14 +43,13 @@ RAY = '#afc3bb'
 
 # ───────────────────────────── CONTENT ──────────────────────────────
 
-NAME = 'Semyon Dashkin'
+NAME = 'Semyon Maksimovich'
 NAME_TAG = 'Semyon'
-TAGLINE = 'QA Engineer · Backend & APIs'
+TAGLINE = 'SDET · Backend & APIs'
 
 ABOUT = ("Hi, I'm Semyon, a QA engineer. I spent three years testing "
          'banking backends: microservices talking over REST and Kafka, '
-         'data in PostgreSQL and Redis, logs in Kibana. '
-         'Currently looking for a new team.')
+         'data in PostgreSQL and Redis, logs in Kibana.')
 
 TITLES = dict(experience='EXPERIENCE', results='HIGHLIGHTS',
               stack='STACK', contacts='CONTACT')
@@ -71,7 +70,10 @@ EXPERIENCE = [
 ]
 
 RESULTS = [
-    ('tms', 'TMS in the testing workflow',
+    ('relay', 'Relay — desktop API client',
+     'Built a desktop app for API testing inside an isolated network '
+     "segment, where the usual cloud tools aren't an option."),
+    ('tms','TMS in the testing workflow',
      'Brought the Sfera TMS into the process, so test cases and other '
      'test artifacts take less time to write.'),
     ('redis', 'Redis as a testing tool',
@@ -88,6 +90,7 @@ RESULTS = [
 
 STACK = [
     ('API', ['REST', 'SOAP', 'GraphQL', 'RPC', 'Webhooks']),
+    ('TESTING', ['pytest', 'JUnit', 'TestNG', 'REST Assured', 'Cucumber', 'Allure']),
     ('DEBUG', ['Postman', 'cURL', 'WireMock', 'DevTools']),
     ('DATA', ['PostgreSQL', 'MySQL', 'Redis', 'Kafka', 'DBeaver']),
     ('INFRA', ['Docker', 'Kubernetes', 'CI/CD', 'Git', 'Linux']),
@@ -97,7 +100,7 @@ STACK = [
     ('CODE', ['Python', 'Java', 'C#', 'C/C++', 'JS']),
     ('NETWORK', ['TCP/IP', 'OSI', 'HTTP', 'FTP', 'Wireshark', 'scapy']),
 ]
-STACK_FOCUS = ['Postman', 'Kafka', 'Redis', 'PostgreSQL', 'Kibana']
+STACK_FOCUS = ['pytest', 'REST Assured', 'Postman', 'Kafka', 'Redis', 'PostgreSQL']
 
 CONTACT_TEXT = ['Open to new opportunities.', 'Reach me on Telegram or by email ↓']
 TELEGRAM = '@PowerOfNsk'
@@ -542,6 +545,23 @@ def experience():
 
 
 ICONS = {
+    'relay': [
+        "................",
+        ".KKKKKKKKKKKKKK.",
+        ".KTTTTTTTTPSBTK.",
+        ".KKKKKKKKKKKKKK.",
+        ".KWWWWWWWWWWWWK.",
+        ".KWWWWWWWDWWWWK.",
+        ".KWDDDDDDDDWWWK.",
+        ".KWWWWWWWDWWWWK.",
+        ".KWWWWWWWWWWWWK.",
+        ".KWWWWBWWWWWWWK.",
+        ".KWWWBBBBBBBBWK.",
+        ".KWWWWBWWWWWWWK.",
+        ".KKKKKKKKKKKKKK.",
+        "......KKKK......",
+        "....KKKKKKKK....",
+        "................"],
     'tms': [
         "................",
         "......KKKK......",
